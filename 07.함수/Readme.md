@@ -161,8 +161,56 @@ number = add(b=5, a=3) # b에 5, a에 3를 전달
 print(number)
 ```
 
+--------------------------------------------------
 
+## 입력값 갯수를 모를 때 어떻게 해야하나????
+- 입력값이 여러개일 때 그 값들을 모두 더해주는 함수 = add()
+- But, 갯수가 몇 개인지 모를 때 사용
 
+[ 구조 ]
+```python
+def 함수이름(*매개변수): 
+    <수행할 문장>
+    ...
+```
+-  괄호 안의 매개변수 부분이 * 매개변수로 바뀌었다.
+
+[ 여러 개의 입력값을 받는 함수 만들기 ]
+```python
+def add_many(*args):
+    age = 0
+    for i in args:
+        age = age + i
+    return age
+
+age = add_many(16,24,43,47)
+print(age)
+
+>> 130
+```
+
+```python
+
+def add_mul(choice, *args):
+    if choice =="add":
+        age = 0
+        for i in args:
+            age = age + i
+    elif choice == "mul":
+        age = 1
+        for i in args:
+            age = age * i
+    return age
+
+age = add_mul('add', 16,18,42,45)
+print(age)
+>> 121
+
+age = add_mul('mul', 16,18,42,45)
+print(age)
+>> 544320
+
+```
 
 
 
