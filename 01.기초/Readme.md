@@ -79,11 +79,29 @@
 '#'을 이용해서 주석처리를 한다. \
 단, 쓸때 없는 주석을 많이 쓰면 오히려 헷갈릴 수 있으므로 주의필요~!
 
-![주석](https://user-images.githubusercontent.com/77951853/114334700-1b3f7a80-9b86-11eb-8108-f359744701e9.png)
-
+```python
+coffee = 4100 #커피의 가격
+juice = 4600 #주스의 가격
+tea = 3900 #홍차의 가격
+```
 -------------------------------------------
 Q. 상자에 사탕담기!
+```python
+candy0 = '딸기맛'
+candy1 = '레몬맛'
+candy2 = '수박맛'
+candy3 = '박하맛'
+candy4 = '우유맛'
+candy5 = '땅콩맛'
 
-![상자에 사탕담기](https://user-images.githubusercontent.com/77951853/114335176-3068d900-9b87-11eb-9ae6-2f6870058313.png)
+print(candy0) #딸기맛
+print(candy1) #레몬맛
+print(candy2) #수박맛
+print(candy3) #박하맛
+print(candy4) #우유맛
+print(candy5) #땅콩맛
+
+```
+
 
 
