@@ -33,7 +33,16 @@ my_func()
    토끼야 안녕!
 
 ```
+[ add() 함수를 사용해 두 개의 숫자를 더하는 코드 ]
+```python
+def add(num1, num2):
+    return num1 + num2
 
+print(add(2,3))
+
+>> 5
+
+```
 
 
 
