@@ -77,7 +77,12 @@ print(add_mul(2,3))
 #### 인수란?
 - 함수를 호출할 때 전달하는 입력값을 의미한다.
 
+```python
+def add(a,b):   #a, b는 매개변수
+    return a + b
 
+print(add(3,4)) #3, 4는 인수
+```
 
 
 
