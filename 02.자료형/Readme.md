@@ -28,9 +28,7 @@
 
 #### 리스트[접근할 _인덱스]
 
-![값에 접근해 변경하기](https://user-images.githubusercontent.com/77951853/114342784-6f068f80-9b97-11eb-8eb7-9cb86832ce05.png)
-
-
+![값에 접근해 변경하기](https://user-images.githubusercontent.com/77951853/114342851-9fe6c480-9b97-11eb-870d-22a10177fac2.png)
 
 
 
