@@ -33,4 +33,18 @@
 
 ![문자열](https://user-images.githubusercontent.com/77951853/114331603-55594e00-9b7f-11eb-856c-37c7149ccb8e.png)
 
+#### [ 문자열 연산하기 ]
+
+문자열 + 문자열 = 문자열문자열 >>> 문자열 붙여서 출력하기
+문자열 * 3 = 문자열문자열문자열 >>> 문자열 반복해서 출력하기
+
+![문자열 연산](https://user-images.githubusercontent.com/77951853/114331880-fba55380-9b7f-11eb-840e-9a715effc230.png)
+
+
+
+
+
+
+
+
 
