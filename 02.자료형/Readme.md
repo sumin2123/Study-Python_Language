@@ -17,3 +17,26 @@
 ![리스트에 값 추가하기](https://user-images.githubusercontent.com/77951853/114341337-7f693b00-9b94-11eb-868a-1536fcb5444c.png)
 
 #### 리스트.append(추가할_값) 
+
+![값 추가하기](https://user-images.githubusercontent.com/77951853/114341801-8775aa80-9b95-11eb-8b32-36ca760c8675.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
