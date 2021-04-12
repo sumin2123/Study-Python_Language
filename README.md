@@ -14,7 +14,7 @@
 나누기 ( / )
 
 ![연산자](https://user-images.githubusercontent.com/77951853/114329674-ef6ac780-9b7a-11eb-9efd-a1410a8da2c0.png)
->> 3.0 버전 이상에서는 정수 / 정수 = 실수가 출력된다.
+ .>> 3.0 버전 이상에서는 정수 / 정수 = 실수가 출력된다.
 
 ##### 제곱, 몫 , 나머지
 제곱 ( ** )
@@ -48,6 +48,29 @@
 ![변수그림](https://user-images.githubusercontent.com/77951853/114332361-0d3b2b00-9b81-11eb-86ee-9b50b002dec5.png)
 
 변수_이름 = 저장할_값
+
+![변수](https://user-images.githubusercontent.com/77951853/114332596-7b7fed80-9b81-11eb-8516-f02ff047f198.png)
+
+변수에 저장한 값을 변경하는 코드
+
+![변수에 저장한 값을 변경하는 코드](https://user-images.githubusercontent.com/77951853/114332974-37411d00-9b82-11eb-8ae9-c9298b4bf56d.png)
+
+>>> 처음 count 변수에 0을 저장하면 0으로 유지되다가, 다음 count에 1을 저장하게되면은 count는 1로 바뀌게 된다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
