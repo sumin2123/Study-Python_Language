@@ -20,6 +20,15 @@ def 함수_이름(인수) :
     실행할 _명령
     return 반환값
 
+def my_func():
+    print('토끼야 안녕!')
+
+my_func()
+my_func()
+
+>> 토끼야 안녕!
+   토끼야 안녕!
+
 ```
 
 
