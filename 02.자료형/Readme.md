@@ -31,10 +31,16 @@
 ![값에 접근해 변경하기](https://user-images.githubusercontent.com/77951853/114342851-9fe6c480-9b97-11eb-870d-22a10177fac2.png)
 
 
+--------------------------------------------------
+####  값을 제거하기
+주의, 하트2를 제거할 시 클로버3은 앞으로 땡겨져 2번 인덱스에서 1번인덱스로 변경된다.
 
+![값을 제거하기](https://user-images.githubusercontent.com/77951853/114343302-8e51ec80-9b98-11eb-8a98-8674ee8d8bfd.png)
 
+#### del.리스트[제거할 _ 인덱스]
+del 이라는 키워드를 이용해서 제거를 해준다.
 
-
+![값을 제거하고 출력](https://user-images.githubusercontent.com/77951853/114343311-9447cd80-9b98-11eb-924f-b233f9e22bfe.png)
 
 
 
