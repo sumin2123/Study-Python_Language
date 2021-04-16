@@ -9,3 +9,6 @@ https://github.com/sumin2123/Study-Python_Language/blob/main/02.%EC%9E%90%EB%A3%
 
 기본 연산자 정리 \
 https://github.com/sumin2123/Study-Python_Language/tree/main/2.%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%AA%A8%EC%9D%8C
+
+내장함수 정리 \
+https://github.com/sumin2123/Study-Python_Language/blob/main/3.%ED%95%A8%EC%88%98%20%EB%AA%A8%EC%9D%8C/%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98.md
