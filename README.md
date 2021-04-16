@@ -2,7 +2,7 @@
 파이썬 언어 학습 Repositroy
 
 기초 학습 정리 \
-https://github.com/sumin2123/Study-Python_Language/blob/main/01.%EA%B8%B0%EC%B4%88/Readme.md
+https://github.com/sumin2123/Study-Python_Language/tree/main/1.%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC/01.%EA%B8%B0%EC%B4%88
 
 자료형 학습 정리 \
 https://github.com/sumin2123/Study-Python_Language/tree/main/1.%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC/02.%EC%9E%90%EB%A3%8C%ED%98%95
