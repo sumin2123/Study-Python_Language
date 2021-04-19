@@ -7,7 +7,7 @@ https://github.com/sumin2123/Study-Python_Language/tree/main/1.%EB%82%B4%EC%9A%A
 자료형 학습 정리 \
 https://github.com/sumin2123/Study-Python_Language/tree/main/1.%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC/02.%EC%9E%90%EB%A3%8C%ED%98%95
 
-기본 연산자 정리 \
+연산자 모음 정리 \
 https://github.com/sumin2123/Study-Python_Language/tree/main/2.%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%AA%A8%EC%9D%8C
 
 내장함수 정리 \
